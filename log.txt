@@ -1,0 +1,256 @@
+
+##2023-Dec-29-14:44:40,Beging the process of ETL
+
+##2023-Dec-29-14:44:40,Start extraction of data
+
+##2023-Dec-29-14:45:43,Beging the process of ETL
+
+##2023-Dec-29-14:45:43,Start extraction of data
+
+##2023-Dec-29-14:47:10,Beging the process of ETL
+
+##2023-Dec-29-14:47:10,Start extraction of data
+
+##2023-Dec-29-14:48:35,Beging the process of ETL
+
+##2023-Dec-29-14:48:35,Start extraction of data
+
+##2023-Dec-29-14:49:17,Beging the process of ETL
+
+##2023-Dec-29-14:49:17,Start extraction of data
+
+##2023-Dec-29-14:52:21,Beging the process of ETL
+
+##2023-Dec-29-14:52:21,Start extraction of data
+
+##2023-Dec-29-14:52:36,Beging the process of ETL
+
+##2023-Dec-29-14:52:36,Start extraction of data
+
+##2023-Dec-29-14:53:48,Beging the process of ETL
+
+##2023-Dec-29-14:53:48,Start extraction of data
+
+##2023-Dec-29-14:54:58,Beging the process of ETL
+
+##2023-Dec-29-14:54:58,Start extraction of data
+
+##2023-Dec-29-14:55:58,Beging the process of ETL
+
+##2023-Dec-29-14:55:58,Start extraction of data
+
+##2023-Dec-29-14:56:17,Beging the process of ETL
+
+##2023-Dec-29-14:56:17,Start extraction of data
+
+##2023-Dec-29-14:57:20,Erro in connection to API
+
+##2023-Dec-29-14:57:41,Beging the process of ETL
+
+##2023-Dec-29-14:57:41,Start extraction of data
+
+##2023-Dec-29-14:57:42,Extract ended
+
+##2023-Dec-29-14:57:42,Start transformation of data
+
+##2023-Dec-29-14:57:42,Transformation ended
+
+##2023-Dec-29-14:57:42,Start loading of data
+
+##2023-Dec-29-14:58:04,Beging the process of ETL
+
+##2023-Dec-29-14:58:04,Start extraction of data
+
+##2023-Dec-29-14:58:05,Extract ended
+
+##2023-Dec-29-14:58:05,Start transformation of data
+
+##2023-Dec-29-14:58:05,Transformation ended
+
+##2023-Dec-29-14:58:05,Start loading of data
+
+##2023-Dec-29-14:58:35,Beging the process of ETL
+
+##2023-Dec-29-14:58:35,Start extraction of data
+
+##2023-Dec-29-14:58:35,Extract ended
+
+##2023-Dec-29-14:58:35,Start transformation of data
+
+##2023-Dec-29-14:58:35,Transformation ended
+
+##2023-Dec-29-14:58:35,Start loading of data
+
+##2023-Dec-29-14:58:35,Load ended
+
+##2023-Dec-29-15:00:14,Beging the process of ETL
+
+##2023-Dec-29-15:00:14,Start extraction of data
+
+##2023-Dec-29-15:00:16,Extract ended
+
+##2023-Dec-29-15:00:16,Start transformation of data
+
+##2023-Dec-29-15:00:16,Transformation ended
+
+##2023-Dec-29-15:00:16,Start loading of data
+
+##2023-Dec-29-15:00:16,Load ended
+
+##2023-Dec-29-15:01:05,Beging the process of ETL
+
+##2023-Dec-29-15:01:05,Start extraction of data
+
+##2023-Dec-29-15:01:06,Extract ended
+
+##2023-Dec-29-15:01:06,Start transformation of data
+
+##2023-Dec-29-15:01:06,Transformation ended
+
+##2023-Dec-29-15:01:06,Start loading of data
+
+##2023-Dec-29-15:01:06,Load ended
+
+##2023-Dec-29-15:01:59,Beging the process of ETL
+
+##2023-Dec-29-15:01:59,Start extraction of data
+
+##2023-Dec-29-15:02:01,Extract ended
+
+##2023-Dec-29-15:02:01,Start transformation of data
+
+##2023-Dec-29-15:02:01,Transformation ended
+
+##2023-Dec-29-15:02:01,Start loading of data
+
+##2023-Dec-29-15:02:01,Load ended
+
+##2023-Dec-29-15:02:51,Beging the process of ETL
+
+##2023-Dec-29-15:02:51,Start extraction of data
+
+##2023-Dec-29-15:02:52,Extract ended
+
+##2023-Dec-29-15:02:52,Start transformation of data
+
+##2023-Dec-29-15:02:52,Transformation ended
+
+##2023-Dec-29-15:02:52,Start loading of data
+
+##2023-Dec-29-15:02:52,Load ended
+
+##2023-Dec-29-15:04:27,Beging the process of ETL
+
+##2023-Dec-29-15:04:27,Start extraction of data
+
+##2023-Dec-29-15:04:29,Extract ended
+
+##2023-Dec-29-15:04:29,Start transformation of data
+
+##2023-Dec-29-15:04:29,Transformation ended
+
+##2023-Dec-29-15:04:29,Start loading of data
+
+##2023-Dec-29-15:04:29,Load ended
+
+##2024-Jan-02-18:56:28,Beging the process of ETL
+
+##2024-Jan-02-18:56:28,Start extraction of data
+
+##2024-Jan-02-18:56:29,Extract ended
+
+##2024-Jan-02-18:56:29,Start transformation of data
+
+##2024-Jan-02-18:56:29,Transformation ended
+
+##2024-Jan-02-18:56:29,Start loading of data
+
+##2024-Jan-02-18:56:29,Load ended
+
+##2024-Jan-20-01:17:05,Beging the process of ETL
+
+##2024-Jan-20-01:17:05,Start extraction of data
+
+##2024-Jan-20-01:17:12,Extract ended
+
+##2024-Jan-20-01:17:12,Start transformation of data
+
+##2024-Jan-20-01:17:12,Transformation ended
+
+##2024-Jan-20-01:17:12,Start loading of data
+
+##2024-Jan-20-01:19:17,Beging the process of ETL
+
+##2024-Jan-20-01:19:17,Start extraction of data
+
+##2024-Jan-20-01:19:18,Extract ended
+
+##2024-Jan-20-01:19:18,Start transformation of data
+
+##2024-Jan-20-01:19:18,Transformation ended
+
+##2024-Jan-20-01:19:18,Start loading of data
+
+##2024-Jan-20-01:30:26,Beging the process of ETL
+
+##2024-Jan-20-01:30:26,Start extraction of data
+
+##2024-Jan-20-01:30:26,Extract ended
+
+##2024-Jan-20-01:30:26,Start transformation of data
+
+##2024-Jan-20-01:30:27,Transformation ended
+
+##2024-Jan-20-01:30:27,Start loading of data
+
+##2024-Jan-20-01:30:44,Beging the process of ETL
+
+##2024-Jan-20-01:30:44,Start extraction of data
+
+##2024-Jan-20-01:30:44,Extract ended
+
+##2024-Jan-20-01:30:44,Start transformation of data
+
+##2024-Jan-20-01:30:44,Transformation ended
+
+##2024-Jan-20-01:30:44,Start loading of data
+
+##2024-Jan-20-01:30:51,Beging the process of ETL
+
+##2024-Jan-20-01:30:51,Start extraction of data
+
+##2024-Jan-20-01:30:52,Extract ended
+
+##2024-Jan-20-01:30:52,Start transformation of data
+
+##2024-Jan-20-01:30:52,Transformation ended
+
+##2024-Jan-20-01:30:52,Start loading of data
+
+##2024-Jan-20-01:52:59,Beging the process of ETL
+
+##2024-Jan-20-01:52:59,Start extraction of data
+
+##2024-Jan-20-01:53:00,Extract ended
+
+##2024-Jan-20-01:53:00,Start transformation of data
+
+##2024-Jan-20-01:53:00,Transformation ended
+
+##2024-Jan-20-01:53:00,Start loading of data
+
+##2024-Jan-20-01:53:00,Load ended
+
+##2024-Jan-20-02:20:22,Beging the process of ETL
+
+##2024-Jan-20-02:20:22,Start extraction of data
+
+##2024-Jan-20-02:20:24,Extract ended
+
+##2024-Jan-20-02:20:24,Start transformation of data
+
+##2024-Jan-20-02:20:24,Transformation ended
+
+##2024-Jan-20-02:20:24,Start loading of data
+
+##2024-Jan-20-02:20:24,Load ended
